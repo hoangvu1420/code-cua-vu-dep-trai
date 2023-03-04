@@ -1,0 +1,57 @@
+**1 C va C++ la cung mot ngon ngu ?
+# Sai
+# Dung
+**2 Cau hoi 2 ?
+# Dap an a
+# Dap an b
+# Dap an c
+**1 Dau la lenh su dung de re nhanh chuong trinh ?
+# if
+# switch
+# Ca hai lenh tren
+**2 Cau hoi 4?
+# DA4.1
+# DA4.2
+# DA4.3
+**6 Cau hoi 5?
+# DA5.1
+# DA5.2
+**2 Cau hoi 6?
+# DA6.1
+# DA6.2
+# DA6.3
+# DA6.4
+**4 Cau hoi 7?
+# DA7.1
+# DA7.2
+# DA7.3
+**5 Cau hoi 8?
+# DA8.1
+# DA8.2
+**3 Cau hoi 9?
+# DA9.1
+# DA9.2
+# DA9.3
+**5 Cau hoi 10?
+# DA10.1
+# DA10.2
+**6 Cau hoi 11?
+# DA11.1
+# DA11.2
+# DA11.3
+# DA11.4
+**2 Cau hoi 12?
+# DA12.1
+# DA12.2
+# DA12.3
+**6 Cau hoi 13?
+# DA13.1
+# DA13.2
+# DA13.3
+**3 Cau hoi 14?
+# DA14.1
+# DA14.2
+**1 Cau hoi 15?
+# DA15.1
+# DA15.2
+# DA15.3

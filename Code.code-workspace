@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/FPTSHOP/OneDrive - Hanoi University of Science and Technology/Flavour/Code"
+		},
+		{
+			"path": "C:/Users/FPTSHOP/OneDrive - Hanoi University of Science and Technology/Flavour/game build"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "game build",
+		"files.associations": {
+			"limits": "c",
+			"stdio.h": "c",
+			"string.h": "c",
+			"valarray": "c",
+			"regex": "cpp",
+			"iostream": "cpp",
+			"cmath": "cpp",
+			"iosfwd": "cpp",
+			"iomanip": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}

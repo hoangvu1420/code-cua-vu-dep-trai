@@ -1,0 +1,1 @@
+{"name":"Local: sort","url":"d:\\OneDrive - Hanoi University of Science and Technology\\Flavour\\Code\\sort.cpp","tests":[{"id":1675510335296,"input":"5\n12 3 1 2 5","output":"1 2 3 5 12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OneDrive - Hanoi University of Science and Technology\\Flavour\\Code\\sort.cpp","group":"local","local":true}

@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "string": "c",
+        "regex": "c",
+        "stdio.h": "c",
+        "queue.h": "c",
+        "double_ll.h": "c",
+        "string.h": "c",
+        "bst.h": "c",
+        "cctype": "c",
+        "gmp.h": "c",
+        "data.h": "c",
+        "stdlib.h": "c"
+    }
+}
